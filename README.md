@@ -86,16 +86,9 @@
 
 ---
 
-## 🐍 Contribution Snake:
+## 📊 Contribution Activity:
 <div align="center">
-  <picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliEsam99/AliEsam99/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliEsam99/AliEsam99/output/github-snake.svg">
-  <img alt="github snake game animation" src="https://raw.githubusercontent.com/AliEsam99/AliEsam99/output/github-snake.svg">
-
-
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliEsam99&theme=github_dark" alt="Profile Summary" />
 </div>
 
 ---
