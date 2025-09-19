@@ -46,12 +46,12 @@
 ## 📊 GitHub Statistics:
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AliEsam99&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AliEsam99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliEsam99&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliEsam99&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliEsam99&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliEsam99&theme=github_dark" alt="Profile Details" />
 </div>
 
 ---
